@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639381982817",
+    "project_id": "appdangnhap-755b8",
+    "storage_bucket": "appdangnhap-755b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639381982817:android:8688b2c565aceea0cc6420",
+        "android_client_info": {
+          "package_name": "com.example.appdangnhap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639381982817-4g0u6gi1blbld3kt9f266fe6viknv25p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgX-EEcY0jif7KDlPatk5eA1YeTKaphfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639381982817-4g0u6gi1blbld3kt9f266fe6viknv25p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

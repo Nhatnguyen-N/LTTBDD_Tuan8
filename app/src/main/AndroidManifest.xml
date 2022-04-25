@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppDangNhap">
+        <activity
+            android:name=".Sign_in"
+            android:exported="false"/>
+        <activity
+            android:name=".Register"
+            android:exported="false"/>
+        <activity
+            android:name=".face"
+            android:exported="false"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
